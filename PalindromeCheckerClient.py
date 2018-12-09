@@ -1,5 +1,4 @@
 import socket, threading, sys, pickle
-
 '''
 Palindrome Client
 By: Kervin Lavaud
